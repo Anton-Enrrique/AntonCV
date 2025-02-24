@@ -43,21 +43,11 @@
   </a>
 </p>
 
----
-
-### 📊 **GitHub Stats:**
-<p align="center">
-  <a href="https://github.com/GabrielAnton">
-    <img src="https://github-readme-stats.vercel.app/api?username=GabrielAnton&show_icons=true&theme=radical" alt="GitHub Stats" />
-  </a>
-</p>
 
 ---
 
 ### 📫 **¡Contáctame!**
-📩 **Email:** [tuemail@example.com](mailto:tuemail@example.com)  
-💼 **LinkedIn:** [TuPerfil](https://linkedin.com/in/tu-perfil)  
-🚀 **Portafolio:** [TuSitioWeb.com](https://tusitioweb.com)  
+<p align="center"> <a href="mailto:tuemail@example.com" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Email"/> </a> <a href="https://linkedin.com/in/tu-perfil" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn"/> </a> <a href="https://tusitioweb.com" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/domain.png" alt="Portafolio"/> </a> </p>
 
 ---
 
