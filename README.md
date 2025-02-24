@@ -5,11 +5,6 @@
 
 - 💬 Pregúntame sobre: **HTML, CSS, Php, MySql, Flutter**
 
-<h3 align="left">Conéctate conmigo:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/gabriel-anton-alburqueque/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel_anton" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Lenguajes y Herramientas:</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -26,6 +21,9 @@
   </a>
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
   </a>
 </p>
 
