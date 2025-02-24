@@ -47,8 +47,22 @@
 ---
 
 ### 📫 **¡Contáctame!**
-<p align="center"> <a href="mailto:tuemail@example.com" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Email"/> </a> <a href="https://linkedin.com/in/tu-perfil" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn"/> </a> <a href="https://tusitioweb.com" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/domain.png" alt="Portafolio"/> </a> </p>
+<p align="center">
+  <!-- Email -->
+  <a href="mailto:gabrielantonalbuqueque@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Email"/>
+  </a>
 
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/gabriel-anton-alburqueque/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn"/>
+  </a>
+
+  <!-- Portafolio o Página Web -->
+  <a href="https://TU_PORTAFOLIO_AQUI" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/domain.png" alt="Portafolio"/>
+  </a>
+</p>
 ---
 
 ⚡ **"El aprendizaje nunca termina, sigue creando, sigue innovando."** 🚀
