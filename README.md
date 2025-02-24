@@ -1,4 +1,20 @@
-<h1 align="center">Hola 👋, Soy: [Gabriel Anton Alburqueque]</h1>
+<h1 align="center">Hola 👋, Soy: Gabriel Anton Alburqueque</h1>
+
+<script>
+function saludar() {
+    const mano = document.getElementById('mano');
+    let angulo = 0;
+    setInterval(() => {
+        mano.style.transform = `rotate(${angulo}deg)`;
+        angulo = (angulo + 10) % 60; // Movimiento de saludo
+    }, 100);
+}
+
+window.onload = saludar;
+</script>
+
+<div id="mano" style="width: 100px; height: 100px; background-color: blue; border-radius: 50%; position: relative; top: 50px; left: 50%;"></div>
+
 <h3 align="center">Técnico en Desarrollo de Sistemas de Información.</h3>
 
 - 🌱 Actualmente estoy aprendiendo: **C++**
