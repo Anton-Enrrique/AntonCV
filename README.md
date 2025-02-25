@@ -62,6 +62,11 @@
   <a href="https://TU_PORTAFOLIO_AQUI" target="_blank">
     <img src="https://img.icons8.com/fluency/48/000000/domain.png" alt="Portafolio"/>
   </a>
+  
+  <!-- CV o DRIVE -->
+  <a href="https://drive.google.com/file/d/1nqTCV-3u2vMbHOJmOOtXk9C28GiHYeJ7/view?usp=sharing" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/pdf.png" alt="CV"/>
+  </a>
 </p>
 
 
